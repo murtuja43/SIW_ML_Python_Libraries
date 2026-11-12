@@ -1,4 +1,4 @@
-# Python Libraries for Machine Learning — SIW Code
+# Python Libraries for Machine Learning : SIW Code
 
 **Author:** Kayes Md Golam Murtuja  
 **University:** Al-Farabi Kazakh National University  
