@@ -66,7 +66,3 @@ You can copy the contents of each script into a separate notebook cell, or open 
 - Listing 5 is arranged as one executable Python script; the original report describes it as three notebook cells.
 - Neural-network training results can vary slightly depending on package versions and hardware.
 - For reproducibility, the examples set random seeds where appropriate.
-
-## Academic source
-
-These code examples are based on the practical listings in the SIW report by Kayes Md Golam Murtuja. The explanations and theoretical discussion are in the accompanying report.
